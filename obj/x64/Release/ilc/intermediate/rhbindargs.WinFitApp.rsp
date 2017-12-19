@@ -1,0 +1,16 @@
+/osver:6.2
+/appcontainer
+/runtime:mrt100_app
+/eh:clr
+/pdb
+"/nativeLink:C:\Users\Mark\.nuget\packages\microsoft.net.native.compiler\1.7.0\tools\x64\ilc\lib\Native\vmath.lib"
+/customImports
+/methodBodyFolding
+"C:\Users\Mark\Desktop\WinFitApp\WinFitApp\WinFitApp\obj\x64\Release\ilc\intermediate\MDIL\WinFitApp.mdilexe"
+"/i:C:\Users\Mark\Desktop\WinFitApp\WinFitApp\WinFitApp\obj\x64\Release\ilc\intermediate\MDIL"
+"/out:C:\Users\Mark\Desktop\WinFitApp\WinFitApp\WinFitApp\obj\x64\Release\ilc\intermediate\Native\WinFitApp.exe"
+"/pdbAltPath:C:\Users\Mark\Desktop\WinFitApp\WinFitApp\WinFitApp\bin\x64\Release\ilc"
+"/res:C:\Users\Mark\Desktop\WinFitApp\WinFitApp\WinFitApp\obj\x64\Release\ilc\intermediate\Native.res"
+"/i:C:\Users\Mark\.nuget\packages\microsoft.net.native.sharedlibrary-x64\1.7.0\tools\SharedLibrary\ret\MDIL"
+/shimexe
+"/classlib:SharedLibrary"
