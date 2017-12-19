@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Mark\Desktop\WinFitApp\WinFitApp\WinFitApp\bin\x86\Release\WinFitApp_1.1.3.0_x86.appx
+SymbolPackage=C:\Users\Mark\Desktop\WinFitApp\WinFitApp\WinFitApp\AppPackages\WinFitApp_1.1.3.0_Test\WinFitApp_1.1.3.0_x86.appxsym
