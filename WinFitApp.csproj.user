@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
@@ -19,4 +20,27 @@
     <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
     <UseEmulator>true</UseEmulator>
   </PropertyGroup>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <AppIconSource>C:\Users\Mark\Desktop\WinFitApp\WinFitApp\WinFitApp\Assets\Logo1.png</AppIconSource>
+    <LargeTileSource>C:\Users\Mark\Desktop\WinFitApp\WinFitApp\WinFitApp\Assets\Logo1.png</LargeTileSource>
+    <Source>C:\Users\Mark\Desktop\WinFitApp\WinFitApp\WinFitApp\Assets\Logo1.png</Source>
+    <SmallTileSource>C:\Users\Mark\Desktop\WinFitApp\WinFitApp\WinFitApp\Assets\Logo1.png</SmallTileSource>
+    <MediumTileSource>C:\Users\Mark\Desktop\WinFitApp\WinFitApp\WinFitApp\Assets\Logo1.png</MediumTileSource>
+    <WideTileSource>C:\Users\Mark\Desktop\WinFitApp\WinFitApp\WinFitApp\Assets\Logo1.png</WideTileSource>
+    <SplashScreenSource>C:\Users\Mark\Desktop\WinFitApp\WinFitApp\WinFitApp\Assets\Logo1.png</SplashScreenSource>
+    <BadgeLogoSource>C:\Users\Mark\Desktop\WinFitApp\WinFitApp\WinFitApp\Assets\Logo1.png</BadgeLogoSource>
+    <PackageLogoSource>C:\Users\Mark\Desktop\WinFitApp\WinFitApp\WinFitApp\Assets\Logo1.png</PackageLogoSource>
+    <AppxPackageIsForStore>True</AppxPackageIsForStore>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x86|x64|arm</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+>>>>>>> ae91934f6e98032b930172a51be49c4093bef243
 </Project>
